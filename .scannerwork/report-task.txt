@@ -1,0 +1,6 @@
+projectKey=demo.spring-petclinic
+serverUrl=https://sonar.dev.pkhamdee.com:9090
+serverVersion=8.9.0.43852
+dashboardUrl=https://sonar.dev.pkhamdee.com:9090/dashboard?id=demo.spring-petclinic
+ceTaskId=AXmwzuv2DH-gBQWykr2A
+ceTaskUrl=https://sonar.dev.pkhamdee.com:9090/api/ce/task?id=AXmwzuv2DH-gBQWykr2A
